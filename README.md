@@ -3,7 +3,7 @@
 ![download](https://user-images.githubusercontent.com/105945908/192166415-31f3982b-67b6-4121-baef-ae9bfd5f6417.jpg)
 
 
-## **Given the provided data, what are conclusions that we can draw about the crowdfunding campaigns data set?**
+## **What are conclusions that we can draw about the crowdfunding campaigns data set?**
 
 Here are three possible conclusions we can draw about the crowdfunding campaigns data set:
 1) “Theater” was the most successful category of crowdfunding but also had the most failed campaigns.
