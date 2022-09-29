@@ -1,4 +1,4 @@
-## Excel-Challenge 
+## Exploring Crowdfunding Campaigns Using Excel 
 
 ![download](https://user-images.githubusercontent.com/105945908/192166415-31f3982b-67b6-4121-baef-ae9bfd5f6417.jpg)
 
