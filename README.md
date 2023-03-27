@@ -7,8 +7,14 @@
 
 Here are three possible conclusions we can draw about the crowdfunding campaigns data set:
 1) “Theater” was the most successful category of crowdfunding but also had the most failed campaigns.
-2) Crowdfunding activity (activity defined as: successful AND failed campaigns) within the sub-category “plays” eclipsed activity within all other sub-categories.
-3) Late Spring/Early Summer (May, June, and especially July) is the time of year that yields the highest results for successful crowdfunding campaigns.
+
+<img width="838" alt="Screenshot 2023-03-27 at 11 42 24 AM" src="https://user-images.githubusercontent.com/105945908/227993256-8f829f06-3722-42de-9d55-cac020d52c1d.png">
+
+
+
+
+3) Crowdfunding activity (activity defined as: successful AND failed campaigns) within the sub-category “plays” eclipsed activity within all other sub-categories.
+4) Late Spring/Early Summer (May, June, and especially July) is the time of year that yields the highest results for successful crowdfunding campaigns.
 
 
 
