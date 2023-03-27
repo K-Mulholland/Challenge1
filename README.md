@@ -10,13 +10,13 @@ Here are three possible conclusions we can draw about the crowdfunding campaigns
 
 <img width="838" alt="Screenshot 2023-03-27 at 11 42 24 AM" src="https://user-images.githubusercontent.com/105945908/227993256-8f829f06-3722-42de-9d55-cac020d52c1d.png">
 
-<img width="725" alt="Screenshot 2023-03-27 at 11 43 08 AM" src="https://user-images.githubusercontent.com/105945908/227993581-aecd2737-13cc-4109-8cdf-7798672bd33e.png">
+
 
 
 
 2) Crowdfunding activity (activity defined as: successful AND failed campaigns) within the sub-category “plays” eclipsed activity within all other sub-categories.
 
-![Uploading Screenshot 2023-03-27 at 11.43.08 AM.png…]()
+<img width="725" alt="Screenshot 2023-03-27 at 11 43 08 AM" src="https://user-images.githubusercontent.com/105945908/227993581-aecd2737-13cc-4109-8cdf-7798672bd33e.png">
 
 
 
